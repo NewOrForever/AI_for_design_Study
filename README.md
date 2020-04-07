@@ -1,2 +1,2 @@
-# AI_for_design_Study
-AI设计工具学习
+# PPT拆解学习
+模仿拆解学习珞珈老师的PPT模板
